@@ -1,4 +1,4 @@
-package th.ac.ku.demo;
+package ac.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

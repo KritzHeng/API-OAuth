@@ -1,4 +1,4 @@
-package th.ac.ku.demo.model;
+package ac.demo.model;
 
 import java.util.UUID;
 
